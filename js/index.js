@@ -1,9 +1,9 @@
 const title = document.querySelector('.title');
 const texts = [
-  ":D You told me..",
-  "that you love flowers..",
-  "So I thought why not..",
-  "By the way..",
+  "My heart goes poco loco",
+  "Whenever I see you..",
+  "Here are some flowers",
+  "For my dearest Alizay",
   "These will last forever :D"
 ];
 
@@ -28,7 +28,7 @@ function showText() {
       }, i * 100);
     });
     index++;
-    setTimeout(showText, 3000);
+    setTimeout(showText, 4500);
   }
 }
 
