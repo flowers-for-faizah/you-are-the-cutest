@@ -1,10 +1,13 @@
 const title = document.querySelector('.title');
 const texts = [
-  "My heart goes poco loco",
-  "Whenever I see you..",
-  "Here are some flowers",
-  "For my dearest Alizay",
-  "These will last forever :D"
+  "",
+  "Alizay, my forever love..",
+  "You are my lovely spring..",
+  "With you, my heart takes wing..",
+  "Your love shines, soft and bright.",
+  "You make my world feel light.",
+  "In your arms, I belong.",
+  "With you, life’s a love song..",
 ];
 
 let index = 0;
