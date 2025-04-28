@@ -1,7 +1,7 @@
 const title = document.querySelector('.title');
 const texts = [
   "",
-  "Alizay, my forever love..",
+  "Faizah, my forever love..",
   "You are my lovely spring..",
   "With you, my heart takes wing..",
   "Your love shines, soft and bright.",
